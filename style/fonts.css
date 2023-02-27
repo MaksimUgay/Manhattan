@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'SR';
+    src: url(../fonts/stolzl_regular.otf);
+}
+
+@font-face {
+    font-family: 'GB';
+    src: url(../fonts/gotham_bold.otf);
+}
+
+@font-face {
+    font-family: 'GPB';
+    src: url(../fonts/gothampro_black.ttf);
+}
